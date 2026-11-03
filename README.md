@@ -1,2 +1,3 @@
 # resolver-util-525944
-WIP module
+
+Service prototype, work in progress.
